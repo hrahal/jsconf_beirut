@@ -1,7 +1,10 @@
 {
-  "name": "jsconf_beirut",
-  "version": "0.0.1",
-  "description": "code samples for understanding node.js",
-  "author": "hasan.rahhall@gmail.com",
-  "license": "BSD"
+    "name": "jsconf_beirut",
+    "version": "0.0.1",
+    "description": "code samples for understanding node.js",
+    "author": "hasan.rahhall@gmail.com",
+    "dependencies": {
+        "async": "1.5.2"
+    },
+    "license": "BSD"
 }
